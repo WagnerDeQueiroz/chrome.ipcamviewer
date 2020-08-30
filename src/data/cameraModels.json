@@ -89,6 +89,9 @@
     "INSTAR": {
         "jpg": "/tmpfs/snap.jpg"
     },
+    "IPCAM": {
+        "jpg": "/tmpfs/auto.jpg"
+    },
     "JVC": {
         "jpg": "/cgi-bin/video.jpg"
     },
